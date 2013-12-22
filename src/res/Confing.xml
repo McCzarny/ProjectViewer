@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configs>
+    <splashScreenPath>splash</splashScreenPath>
+    <dataPath>splash</dataPath>
+    <resourcesPath>res</resourcesPath>
+    <imageExtensions>png</imageExtensions>
+    <imageExtensions>jpg</imageExtensions>
+    <txtExtensions>txt</txtExtensions>
+</configs>
